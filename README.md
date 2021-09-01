@@ -2,8 +2,7 @@
 
 **Santander's bootcamp**  **Digital Innovation One** .
 
-Author: []()
-
+Author:  Ana Paula Sartorelli
 > API REST para controle de ponto e acesso dos usuários de uma empresa. 
 
 ### Environment
